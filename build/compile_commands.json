@@ -10,5 +10,11 @@
   "command": "C:\\Winlibs\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\TD5.dir\\src\\exo\\ex1.cpp.obj -c C:\\Users\\souks\\Documents\\IMAC1\\prog-algo\\s2\\hashing-prog-algo\\src\\exo\\ex1.cpp",
   "file": "C:/Users/souks/Documents/IMAC1/prog-algo/s2/hashing-prog-algo/src/exo/ex1.cpp",
   "output": "C:/Users/souks/Documents/IMAC1/prog-algo/s2/hashing-prog-algo/build/CMakeFiles/TD5.dir/src/exo/ex1.cpp.obj"
+},
+{
+  "directory": "C:/Users/souks/Documents/IMAC1/prog-algo/s2/hashing-prog-algo/build",
+  "command": "C:\\Winlibs\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\TD5.dir\\src\\exo\\ex2.cpp.obj -c C:\\Users\\souks\\Documents\\IMAC1\\prog-algo\\s2\\hashing-prog-algo\\src\\exo\\ex2.cpp",
+  "file": "C:/Users/souks/Documents/IMAC1/prog-algo/s2/hashing-prog-algo/src/exo/ex2.cpp",
+  "output": "C:/Users/souks/Documents/IMAC1/prog-algo/s2/hashing-prog-algo/build/CMakeFiles/TD5.dir/src/exo/ex2.cpp.obj"
 }
 ]

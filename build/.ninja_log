@@ -1,6 +1,5 @@
 # ninja log v7
-2	587	7972523389456066	CMakeFiles/TD5.dir/src/main.cpp.obj	d37cb4cc0cabb735
-632	742	7972523395775054	TD5.exe	d10895a81e0e4b04
-10	327	7972526445097579	CMakeFiles/TD5.dir/src/exo/ex1.cpp.obj	8239dd3cc0d193d9
-4	456	7972526444987656	CMakeFiles/TD5.dir/src/main.cpp.obj	d37cb4cc0cabb735
-457	609	7972526449526018	TD5.exe	397b1573168c9738
+19	764	7977765932044441	CMakeFiles/TD5.dir/src/exo/ex1.cpp.obj	8239dd3cc0d193d9
+8	1217	7977765931930972	CMakeFiles/TD5.dir/src/main.cpp.obj	d37cb4cc0cabb735
+7	1328	7977768617382369	CMakeFiles/TD5.dir/src/exo/ex2.cpp.obj	fbe1a663097f13cf
+1329	1636	7977768630602246	TD5.exe	282b4fc8a184d9cc

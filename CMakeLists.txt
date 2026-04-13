@@ -7,4 +7,5 @@ project(TD5_Hash)
 add_executable(TD5
     src/main.cpp
     src/exo/ex1.cpp
+    src/exo/ex2.cpp
 )
